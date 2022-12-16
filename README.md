@@ -15,7 +15,7 @@
 - I worked as Full Stack Developer(Node.js) at Decagon.
 - Have experience Unit and integration Test.
 - I create responsive front-end web application according to design guidelines and information architecture
-- Built scalable Web Application Using Node.js, Express.js, Typescript and React
+- Built scalable Web Applications Using Node.js, Express.js, Typescript and React
  
 </td><td valign="top" width="25%">
 
