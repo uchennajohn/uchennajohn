@@ -39,7 +39,7 @@
 <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp; -->
 
 
-<a href="https://twitter.com/uc__nna"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/uc__nna4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+<a href="https://twitter.com/uc__nna"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/uc__nna?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
 
 <!-- ## 🥞 Tech Stack
