@@ -25,11 +25,12 @@
 - Kubernetes
 - Postgres 
 - React.js
+- Material UI
 - Express.js
 - Node.js
 - GraphQL
 - Typescript.js
-- MongoDB (new)
+- MongoDB
  
 </tr></tr></table> 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
