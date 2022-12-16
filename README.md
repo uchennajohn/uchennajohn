@@ -4,7 +4,7 @@
 &ensp;<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
 &ensp;<a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
-&ensp;<a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/okechukwu-uchenna-john-0b640618b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 &ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
 &ensp;<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 <!-- &ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> -->
@@ -17,7 +17,7 @@
 
 ## 👋 Hi, I Am John
 
-- I am a Mechanical Engineer interested Web Application Development  especially in Node.JS
+- I am a Fullstack Web Developer with special interest in Web Application Development using Node.JS
 - I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
 - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
 - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
