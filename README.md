@@ -12,11 +12,10 @@
 ## 👋 Hi, I Am John
 
 - I am a Fullstack Web Developer with special interest in Web Application Development using Node.JS
-- I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
-- [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
-- I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
-- I am a Developer Advocate at [daily.dev](https://daily.dev) 
-- I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
+- I worked as Full Stack Developer(Node.js) at Decagon.
+- Have experience Unit and integration Test.
+- I create responsive front-end web application according to design guidelines and information architecture
+- Built scalable Web Application Using Node.js, Express.js, Typescript and React
  
 </td><td valign="top" width="25%">
 
@@ -40,8 +39,7 @@
 <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp; -->
 
 
-<a href="https://twitter.com/FrancescoCiull4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FrancescoCiull4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBRxDSTfr2aJVODDh4WG_7g?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
-<a href="https://www.twitch.tv/francesco_ciulla"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/francesco_ciulla?style=for-the-badge&logo=twitch&color=8a43f2">&nbsp;
+<a href="https://twitter.com/uc__nna"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/uc__nna4?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
 
 <!-- ## 🥞 Tech Stack
