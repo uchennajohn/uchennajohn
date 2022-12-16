@@ -16,9 +16,9 @@
 
 <table><tr><td valign="top" width="75%">
 
-## 👋 Hi, I Am Francesco
+## 👋 Hi, I Am John
 
-- I am a Computer Scientist interested in Web3 and DevRel.
+- I am a Mechanical Engineer interested Web Application Development  especially in Node.JS
 - I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
 - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
 - I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
@@ -32,10 +32,12 @@
 - Docker
 - Kubernetes
 - Postgres 
+-React.js
+-Express.js
 - Node.js
-- Grafana
-- Next.js
-- Rust (new)
+- GraphQL
+- Typescript.js
+- MongoDB (new)
  
 </tr></tr></table> 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
