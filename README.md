@@ -32,8 +32,8 @@
 - Docker
 - Kubernetes
 - Postgres 
--React.js
--Express.js
+- React.js
+- Express.js
 - Node.js
 - GraphQL
 - Typescript.js
