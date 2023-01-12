@@ -26,7 +26,7 @@
 - Kubernetes
 - Postgres 
 - React.js
--React Native
+- React Native
 - Material UI
 - Express.js
 - Node.js
