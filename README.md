@@ -11,7 +11,7 @@
 
 ## 👋 Hi, I Am John
 
-- I am a Fullstack Web Developer with special interest in Web Application Development using Node.JS.
+- I am a Fullstack Web Developer with special interest in Mobile App development using React Native and Web Application Development using Node.JS.
 - I worked as Full Stack Developer(Node.js) at Decagon.
 - Have experience Unit and integration Test.
 - I create responsive front-end web application according to design guidelines and information architecture.
